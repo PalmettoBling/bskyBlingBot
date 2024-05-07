@@ -7,6 +7,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
+    "@atproto/api": "^0.12.8",
     "@azure/cosmos": "^4.0.0",
     "@azure/functions": "^4.0.0"
   },

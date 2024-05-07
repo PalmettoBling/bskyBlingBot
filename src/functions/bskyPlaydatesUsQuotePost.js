@@ -46,6 +46,6 @@ app.timer('bskyPlaydatesUsQuotePost', {
             // Posting quote to Bsky
             agent.post({
                 text: quoteReturn
-            })
+            });
     }
 });
